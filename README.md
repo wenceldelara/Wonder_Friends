@@ -35,7 +35,7 @@ Below the list of actions is a three dotted icon that may be clicked to reveal t
 
 3. TO DO
 - In order to tick things in the to do list, the user must click it in this order: 'Assignment > Shower >Chores'
-- With each items ticked the prototype will count up for how many things are ticked in the list, and will level up anf give coins each task.
+- With each items ticked the prototype will count up for how many things are ticked in the list, and will level up and give coins each task.
 - The user may also add another to do in the list by clicking the button on the lower right side. Once clicked a winodw will pop up where the user may add items, but since this is a prototype it will not be user defined but instead the user must click the 'Title...' and 'Add Note...' to add to it. Press save once finished.
 
 4. SCREEN TIME
