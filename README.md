@@ -31,7 +31,7 @@ Below the list of actions is a three dotted icon that may be clicked to reveal t
 2. TIMER
 - To start user must first select a category. Timer will not work if there is no selected category
 - The set timer cannot be changed and is set to '10 mins and 12 seconds'.
-- If the user ends the timer before it counts down to 00:00 then the prototype will meet the user with consoling words. Else if the user cotinues to see it through, the program, will let out a confratulatory remark
+- If the user ends the timer before it counts down to 00:00 then the prototype will meet the user with consoling words. Else if the user continues to see it through, the program will let out a congratulatory remark
 
 3. TO DO
 - In order to tick things in the to do list, the user must click it in this order: 'Assignment > Shower >Chores'
